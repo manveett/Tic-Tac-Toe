@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-## **Project Title** : **Swing Tic Tac Toe Game**  </n>
+
 ## Overview: <br> 
 The Swing Tic Tac Toe Game is a Java-based application that allows users to play the classic Tic Tac Toe game against another player. Built using the Swing graphical user interface toolkit, this project provides an interactive and visually appealing gaming experience.
 
